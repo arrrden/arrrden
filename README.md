@@ -1,16 +1,13 @@
-### Hi there 👋
+<h4><pre aria-label='Howdy'>██   ██  ██████  ██     ██ ██████  ██    ██  
+██   ██ ██    ██ ██     ██ ██   ██  ██  ██  
+███████ ██    ██ ██  █  ██ ██   ██   ████   
+██   ██ ██    ██ ██ ███ ██ ██   ██    ██    
+██   ██  ██████   ███ ███  ██████     ██</pre></h4>   
 
-<!--
-**arrrden/arrrden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm **Arden** 
+- pronouns go [she](pronoun.is/she)/[they](pronoun.is/they)
+- find me being irrelevant on [twitter](https://twitter.com/arrrrrden)
+- I write code for **HumaniseAI** 
+- sometimes I write; when I do it goes [here](https://dev.to/@arrrden)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+oh and I'm totally **seeking a Go mentor** 🥺
