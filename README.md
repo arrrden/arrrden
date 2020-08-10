@@ -5,7 +5,7 @@
 ██   ██  ██████   ███ ███  ██████     ██</pre></h4>   
 
 - I'm **Arden** 
-- pronouns go [she](pronoun.is/she)/[they](pronoun.is/they)
+- pronouns go [she](https://pronoun.is/she)/[they](https://pronoun.is/they)
 - find me being irrelevant on [twitter](https://twitter.com/arrrrrden)
 - I write code for **HumaniseAI**
 - sometimes I write; when I do it goes [here](https://dev.to/@arrrden)
